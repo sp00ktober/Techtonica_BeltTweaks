@@ -1,8 +1,7 @@
 ﻿using BepInEx;
-using BepInEx.Unity.Mono;
 using HarmonyLib;
 
-namespace Techntonica_BeltTweaks;
+namespace Techtonica_BeltTweaks_5;
 
 [BepInPlugin(MyPluginInfo.PLUGIN_GUID, MyPluginInfo.PLUGIN_NAME, MyPluginInfo.PLUGIN_VERSION)]
 public class Plugin : BaseUnityPlugin

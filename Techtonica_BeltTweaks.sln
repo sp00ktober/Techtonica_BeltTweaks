@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Techntonica_BeltTweaks", "Techntonica_BeltTweaks.csproj", "{1575223E-8CAC-4504-AA5B-600D5BE2FEAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Techtonica_BeltTweaks", "Techtonica_BeltTweaks.csproj", "{EF2BAFD4-A4BA-4E83-8B70-33C4EBE4B75B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1575223E-8CAC-4504-AA5B-600D5BE2FEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1575223E-8CAC-4504-AA5B-600D5BE2FEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1575223E-8CAC-4504-AA5B-600D5BE2FEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1575223E-8CAC-4504-AA5B-600D5BE2FEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2BAFD4-A4BA-4E83-8B70-33C4EBE4B75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2BAFD4-A4BA-4E83-8B70-33C4EBE4B75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2BAFD4-A4BA-4E83-8B70-33C4EBE4B75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2BAFD4-A4BA-4E83-8B70-33C4EBE4B75B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D387BD03-059F-4E8C-A007-D972734628AC}
+		SolutionGuid = {FE2A7999-CB6C-4040-90B9-9528EAAB9906}
 	EndGlobalSection
 EndGlobal

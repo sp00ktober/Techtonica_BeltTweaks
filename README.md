@@ -2,7 +2,7 @@
 ## What is this?
 This is a mod for the Game [Techtonica](https://store.steampowered.com/app/1457320/Techtonica/). As the base game is still early in development it has not support for altering the conveyor belt height manually. This mod will allow you to do this, with some restrictions (for now).
 ## Installation
-- Install the latest [BepInEx](https://github.com/BepInEx/BepInEx/actions) to the game root folder
+- Install the latest [BepInEx 5.x](https://github.com/BepInEx/BepInEx/releases) to the game root folder
 - Start the game once and quit to generate needed folders
 - Copy the `BeltTweaks` folder into the `BepInEx/plugins/` folder
 - Start the game and enjoy
